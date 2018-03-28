@@ -1,5 +1,5 @@
 {
-  "name": "ss-download-queue",
+  "name": "dl-queue",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
